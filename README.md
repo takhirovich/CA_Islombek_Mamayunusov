@@ -22,7 +22,12 @@ __Freelance, March. 2020 - Present | Mobile Developer__<br>
   - [__Upwork__](https://www.upwork.com)
   - [__Habr Freelance__](https://freelance.habr.com/)
 * Apps
-  - [__InvestAll__] (https://freelance.habr.com/)
+  - [__InvestAll__](https://apps.apple.com/us/app/forescite-pro/id1567589436?l)
+  - [__Клиника «Энергетик»__](https://apps.apple.com/us/app/клиника-энергетик/id1568266071)
+  - [__Crypto Portfolio: NOW Tracker__](https://apps.apple.com/ru/app/now-tracker-сrypto-portfolio/id1536924823)
+  - [__myipnosi__](https://apps.apple.com/ru/app/myipnosi/id1496931849)
+  - [__Tanaffas__](https://apps.apple.com/ru/app/tanaffas-تنف-س/id1509077753) | [__Tanaffas Android__](https://play.google.com/store/apps/details?id=uz.mit.tanaffas)
+  - [__mKassa__](https://www.mkassa.uz)
 
 
 __Joint-Stock Commercial Bank "Xalq Bank", May. 2019 - Aug. 2021 | iOS Developer__<br>
@@ -44,4 +49,29 @@ Develop a mobile application for android (Photo Editor).
 * Stack
     - Kotlin | Java | MVP
     - Retrofit 2 | FCM | in-App purchase
+
+## Skills 
+* __Stack__
+    - Swift | SwiftUI
+    - Moya
+    - UIKit, SnapKit 
+    - GCD
+    - Charts
+    - Firebase
+    - OneSignal | FCM
+    - MVVM, VIPER, MVC 
+    - SOLID
+    - UnitTest
+    - HGI Apple
     
+## Education
+* __INHA UNIVERSITY IN TASHKENT, 2014-2018__
+     - BS in Information and Communication Engineering
+
+* __HSE UNIVERSITY, 2021-2023__
+    - MS in Business Analytics and Big Data Systems
+
+## Programming languages
+* Swift (iOS)
+* Java 
+* Kotlin (Android)

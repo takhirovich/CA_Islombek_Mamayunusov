@@ -1,13 +1,13 @@
 # Islombek Mamayunusov
 ### Mobile Engineer 💻
-###### Android | IOS 
+######  IOS | Android
 #### [💬 Telegram](https://t.me/Takhirovich_I) | [✉️ Email](mailto:i.takhirovich@gmail.com)
 ###### 📱🇺🇿 +998(90)-972-00-61 | 📱🇷🇺 +7(936)-444-69-68
 
 ## WORK EXPERIENCE
 __ITQ Group, Sept. 2021 - Oct. 2022 | iOS Developer__<br>
 Working on __MKB Online__ | __MKB Business__ projects as iOS Developer;
-* Develop New Morgage service for __MKB Online__.
+* Develop New Mortgage service for __MKB Online__.
 * Develop New Registration page for __MKB Online__.
 * Worked in team "Cards and Privileges". 
 * Refactoring. 

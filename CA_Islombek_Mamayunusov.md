@@ -54,7 +54,7 @@ Develop a mobile application for android (Photo Editor).
 * __Stack__
     - Swift | SwiftUI
     - Moya
-    - UIKit, SnapKit 
+    - UIKit | SnapKit | PinLayout
     - GCD
     - Charts
     - Firebase

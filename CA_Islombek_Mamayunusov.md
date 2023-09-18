@@ -70,6 +70,7 @@ Develop a mobile application for android (Photo Editor).
 
 * __HSE UNIVERSITY, 2021-2023__
     - MS in Business Analytics and Big Data Systems
+    - Master thesis - "Blockchain in Mobile Development"
 
 ## Programming languages
 * Swift (iOS)

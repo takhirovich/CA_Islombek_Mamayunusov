@@ -2,9 +2,17 @@
 ### Mobile Engineer 💻
 ######  IOS | Android
 #### [💬 Telegram](https://t.me/Takhirovich_I) | [✉️ Email](mailto:i.takhirovich@gmail.com)
-###### 📱🇺🇿 +998(90)-972-00-61 | 📱🇷🇺 +7(936)-444-69-68
+###### 📱🇺🇿 +998(90)-972-00-61 
 
 ## WORK EXPERIENCE
+__UZUM Technologies, July. 2023 - Present | iOS Developer__<br>
+Working on __UZUM BUSINESS__ projects as iOS Developer;
+* Engaged in various aspects of UZUM BUSINESS projects as an iOS Developer: [__UZUM BUSINESS__](https://apps.apple.com/ru/app/uzum-business-kapitalbank/id1672721973).
+* Refactoring. 
+* Stack
+    - Swift | SnapKit | Viper | Alamofire   
+    - Firebase | KingFisher | Clean Architecture 
+
 __ITQ Group, Sept. 2021 - Oct. 2022 | iOS Developer__<br>
 Working on __MKB Online__ | __MKB Business__ projects as iOS Developer;
 * Develop New Mortgage service for __MKB Online__.
@@ -17,7 +25,7 @@ Working on __MKB Online__ | __MKB Business__ projects as iOS Developer;
     - Firebase | KingFisher | Clean Architecture 
 
 
-__Freelance, March. 2020 - Present | Mobile Developer__<br>
+__Freelance, March. 2020 - 2023 | Mobile Developer__<br>
 * Working on platforms: 
   - [__Upwork__](https://www.upwork.com)
   - [__Habr Freelance__](https://freelance.habr.com/)

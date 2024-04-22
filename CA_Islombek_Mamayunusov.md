@@ -8,7 +8,6 @@
 __UZUM Technologies, July. 2023 - Present | iOS Developer__<br>
 Working on __UZUM BUSINESS__ projects as iOS Developer;
 * Engaged in various aspects of UZUM BUSINESS projects as an iOS Developer: [__UZUM BUSINESS__](https://apps.apple.com/ru/app/uzum-business-kapitalbank/id1672721973).
-* Refactoring. 
 * Stack
     - Swift | SnapKit | Viper | Alamofire   
     - Firebase | KingFisher | Clean Architecture 

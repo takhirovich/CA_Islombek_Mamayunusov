@@ -1,95 +1,88 @@
-# Исламбек Мамаюнусов
+# Islombek Mamayunusov
+### Mobile Engineer 💻📱
 
-### Мобильный инженер 💻📱
-
-[LinkedIn](https://www.linkedin.com/in/islom-mamayunusov-a69870205/) | [Telegram](https://t.me/Takhirovich_I) | [Email](mailto:i.takhirovich@gmail.com) | [Телефон: +998(90)-972-00-61](tel:+998909720061)
-
----
-
-## 📜 Профессиональное резюме
-Высококвалифицированный мобильный инженер с обширным опытом разработки iOS-приложений. Проверенный опыт создания надежных и удобных приложений в различных областях. Сильные технические навыки в Swift, UIKit и Чистой архитектуре, в сочетании с глубоким пониманием современных практик разработки и командного сотрудничества.
+[LinkedIn](https://www.linkedin.com/in/islom-mamayunusov-a69870205/) | [Telegram](https://t.me/Takhirovich_I) | [Email](mailto:i.takhirovich@gmail.com) | [Phone: +998(90)-972-00-61](tel:+998909720061)
 
 ---
 
-## 💼 Профессиональный опыт
+## 📜 Professional Summary
+Highly skilled Mobile Engineer with extensive experience in iOS development. Proven expertise in developing robust and user-friendly applications across various domains. Strong technical skills in Swift, UIKit, and Clean Architecture, combined with a solid understanding of modern development practices and team collaboration.
+
+---
+
+## 💼 Professional Experience
 
 ### UZUM Technologies
-**iOS Developer | Июль 2023 - настоящее время**
+**iOS Developer | July 2023 - Present**
 
-- iOS разработчик для проектов UZUM BUSINESS, ведение разработки новых функций и оптимизация производительности.
+- iOS Developer for UZUM BUSINESS projects, driving feature development and performance optimization.
 - [UZUM BUSINESS](https://apps.apple.com/ru/app/uzum-business-kapitalbank/id1672721973)
-- **Технологии:** Swift, SnapKit, Viper, Alamofire, Firebase, Kingfisher, Чистая архитектура
+- **Stack:** Swift, SnapKit, Viper, Alamofire, Firebase, Kingfisher, Clean Architecture
 
 ### ITQ Group
-**iOS Developer | Сентябрь 2021 - Октябрь 2022 | Москва, Россия**
+**iOS Developer | September 2021 - October 2022 | Moscow, Russia**
+- [MBK Mobile](https://mkb.ru/mobile)
+- Developed a new mortgage service for MKB Online, integrating seamlessly with existing systems.
+- Created a new registration page for MKB Online, enhancing user experience and onboarding efficiency.
+- Collaborated with the "Cards and Privileges" team to improve existing features.
+- Conducted extensive refactoring to improve code maintainability and performance.
+- Developed a Service Desk for MKB Business, enhancing customer support processes.
+- **Stack:** Swift, UIKit, Viper, Firebase, Kingfisher, Clean Architecture
 
-- Разработал новую ипотечную службу для MKB Online, интегрировав ее с существующими системами.
-- Создал новую страницу регистрации для MKB Online, улучшив пользовательский опыт и эффективность онбординга.
-- Сотрудничал с командой "Карты и Привилегии" для улучшения существующих функций.
-- Провел обширный рефакторинг для повышения поддерживаемости и производительности кода.
-- Разработал Service Desk для MKB Business, улучшив процессы поддержки клиентов.
-- **Технологии:** Swift, UIKit, Viper, Firebase, Kingfisher, Чистая архитектура
+### Joint-Stock Commercial Bank "Xalq Bank"
+**iOS Developer | May 2019 - August 2021**
 
-### Совместный банк "Халк Банк"
-**iOS Developer | Май 2019 - Август 2021**
-
-- Разработка внутренних приложений и приложений для обслуживания клиентов.
+- Developed internal applications and client service applications.
 - [Xalq Banki](https://apps.apple.com/uz/developer/аt-xalq-bank/id1255778154)
-- **Технологии:** Swift, UIKit, Moya, Firebase, MVC, MVVM, RxSwift
+- **Stack:** Swift, UIKit, Moya, Firebase, MVC, MVVM, RxSwift
 
 ### Fido-Biznes
-**Oracle Developer | Ноябрь 2018 - Март 2019**
+**Oracle Developer | November 2018 - March 2019**
 
-- Работа с базой данных пенсионного фонда Республики Узбекистан.
-- **Технологии:** PL/SQL
+- Worked with the Database of the pension fund of the Republic of Uzbekistan.
+- **Stack:** PL/SQL
 
-### Фриланс
-**Мобильный разработчик | Март 2020 - 2023**
-
-- Разработка различных приложений для клиентов на таких платформах, как Upwork и Habr Freelance.
-- **Значимые проекты:**
+### Freelance
+**Mobile Developer | March 2020 - 2023**
+- Developed various applications for clients on platforms like Upwork and Habr Freelance.
+- **Notable Projects:**
   - [InvestAll](https://apps.apple.com/us/app/forescite-pro/id1567589436?l)
   - [Клиника «Энергетик»](https://apps.apple.com/us/app/клиника-энергетик/id1568266071)
   - [Crypto Portfolio: NOW Tracker](https://apps.apple.com/ru/app/now-tracker-сrypto-portfolio/id1536924823)
   - [myipnosi](https://apps.apple.com/ru/app/myipnosi/id1496931849)
   - [Tanaffas](https://apps.apple.com/ru/app/tanaffas-تنف-س/id1509077753) | [Tanaffas Android](https://play.google.com/store/apps/details?id=uz.mit.tanaffas)
   - [mKassa](https://www.mkassa.uz)
-
+    
 ### iHoops
-**Android Developer | Апрель 2018 - Октябрь 2018**
+**Android Developer | April 2018 - October 2018**
 
-- Разработка мобильного приложения для редактирования фотографий для Android.
-- **Технологии:** Kotlin, Java, MVP, Retrofit 2, FCM, Покупки внутри приложений
+- Developed a photo editor mobile application for Android.
+- **Stack:** Kotlin, Java, MVP, Retrofit 2, FCM, In-App Purchase
+
+---
+## 🛠 Skills
+**Languages:** Swift, Java, Kotlin  
+**Frameworks & Libraries:** UIKit, SwiftUI, SnapKit, PinLayout, Moya, Alamofire, Firebase, Kingfisher, Charts, Core Data, Realm, Combine, AVFoundation  
+**Architectures:** MVVM, VIPER, MVC, Clean Architecture, SOLID principles  
+**Tools & Technologies:** GCD, Unit Testing, XCTest, Xcode Instruments, Cocoapods, Carthage, Swift Package Manager, RESTful APIs, GraphQL, Push Notifications, Core Location, MapKit, Git, CI/CD
 
 ---
 
-## 🛠 Навыки
-
-**Языки:** Swift, Java, Kotlin  
-**Фреймворки и библиотеки:** UIKit, SwiftUI, SnapKit, PinLayout, Moya, Alamofire, Firebase, Kingfisher, Charts, Core Data, Realm, Combine, AVFoundation  
-**Архитектуры:** MVVM, VIPER, MVC, Чистая архитектура, принципы SOLID  
-**Инструменты и технологии:** GCD, Unit Testing, XCTest, Xcode Instruments, Cocoapods, Carthage, Swift Package Manager, RESTful APIs, GraphQL, Push Notifications, Core Location, MapKit, ARKit, Git, CI/CD (Jenkins, GitHub Actions)
-
----
-
-## 🎓 Образование
-
+## 🎓 Education
 **INHA University in Tashkent**  
-**BS в области информационных и коммуникационных технологий | 2014-2018**
+**BS in Information and Communication Engineering | 2014-2018**
 
 **HSE University**  
-**MS в области бизнес-аналитики и систем больших данных | 2021-2023**  
-- Магистерская диссертация: "Блокчейн в мобильной разработке"
+**MS in Business Analytics and Big Data Systems | 2021-2023**  
+- Master thesis: "Blockchain in Mobile Development"
 
 ---
 
-## 💻 Языки программирования
-
-- **Основной:** Swift (iOS)
-- **Вторичные:** Java, Kotlin (Android)
+## 💻 Programming Languages
+- **Primary:** Swift (iOS)
+- **Secondary:** Java, Kotlin (Android)
 
 ---
 
-### 🌟 Свяжитесь со мной!
-
-[LinkedIn](https://www.linkedin.com/in/islom-mamayunusov-a69870205/) | [Telegram](https://t.me/Takhirovich_I) | [Email](mailto:i.takhirovich@gmail.com) | [Телефон: +998(90)-972-00-61](tel:+998909720061)
+### 🌟 Connect with me!
+[LinkedIn](https://www.linkedin.com/in/islom-mamayunusov-a69870205/) | [Telegram](https://t.me/Takhirovich_I) | [Email](mailto:i.takhirovich@gmail.com) | [Phone: +998(90)-972-00-61](tel:+998909720061)

@@ -13,7 +13,7 @@ Highly skilled Mobile Engineer with extensive experience in iOS development. Pro
 ## 💼 Professional Experience
 
 ### UZUM Technologies
-**iOS Developer | July 2023 - Present**
+**iOS Developer | June 2023 - Present**
 
 - iOS Developer for UZUM BUSINESS projects, driving feature development and performance optimization.
 - [UZUM BUSINESS](https://apps.apple.com/ru/app/uzum-business-kapitalbank/id1672721973)

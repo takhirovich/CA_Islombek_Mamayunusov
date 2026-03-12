@@ -1,99 +1,183 @@
 # Исламбек Мамаюнусов
-### Senior iOS / Mobile Engineer 💻📱
+### Senior iOS Engineer | Fintech | SwiftUI Architecture
 
-[LinkedIn](https://www.linkedin.com/in/islom-mamayunusov-a69870205/) | [Telegram](https://t.me/Takhirovich_I) | [Email](mailto:i.takhirovich@gmail.com) | [Телефон: +998(90)-972-00-61](tel:+998909720061)
+Ташкент, Узбекистан  
+📧 i.takhirovich@gmail.com  
+📱 +998 (90) 972-00-61  
 
----
-
-## 📜 Профессиональное резюме
-Senior iOS-разработчик с более чем 4 годами опыта в создании масштабируемых мобильных приложений для финтеха и массового рынка (500К+ пользователей).  
-Эксперт в Swift, SwiftUI, UIKit, архитектурах MVVM-C, VIPER и Clean Architecture.  
-Опыт успешной работы в банках (Uzum Business, Московский Кредитный Банк, Халк Банк) и стартапах (Tanaffas, Crypto Portfolio, Energetic42).  
-Фокус на оптимизацию производительности, чистый код и командную работу.
+[LinkedIn](https://www.linkedin.com/in/islom-mamayunusov-a69870205/) | [Telegram](https://t.me/Takhirovich_I)
 
 ---
 
-## 💼 Опыт работы
+# Профессиональное резюме
 
-### Uzum Technologies
-**iOS Developer | Июль 2023 – настоящее время | Ташкент, Узбекистан**  
-- Разработал ключевые модули приложения **Uzum Business** (ТОП-10 бизнес-приложений в Узбекистане).  
-- Оптимизировал сетевые взаимодействия, сократив время загрузки данных на **30%**.  
-- Внедрил Clean Architecture, улучшив масштабируемость кода.  
-- [Uzum Business](https://apps.apple.com/ru/app/uzum-business-kapitalbank/id1672721973)  
-**Стек:** Swift, SnapKit, Viper, Alamofire, Firebase, Kingfisher  
+Senior iOS-разработчик с более чем 5 годами опыта разработки высоконагруженных мобильных приложений для финтеха и массового рынка.
+
+Специализируюсь на разработке систем обработки финансовых транзакций, архитектуре SwiftUI и масштабируемых мобильных платформах. Участвую в архитектурной миграции с UIKit на SwiftUI и обеспечении стабильности production-систем в банковском приложении с **15 000+ ежедневных пользователей и crash-free rate 99.8%**.
+
+Имею опыт построения сложных финансовых функций, включая **digital onboarding, банковские платежи и SWIFT MX переводы**.
 
 ---
 
-### ITQ Group
-**iOS Developer | Сентябрь 2021 – Октябрь 2022 | Москва, Россия**  
-- Разработал ипотечный сервис в MKB Online, увеличив конверсию на **15%**.  
-- Создал новый онбординг и страницу регистрации, повысив эффективность привлечения пользователей.  
-- Разработал Service Desk для MKB Business, ускорив поддержку клиентов.  
-- Провёл рефакторинг ключевых модулей, повысив стабильность и поддержку.  
-- [MKB Mobile](https://mkb.ru/mobile)  
-**Стек:** Swift, UIKit, VIPER, Firebase, Kingfisher, Clean Architecture  
+# Опыт работы
+
+## Uzum Technologies
+**Senior iOS Developer / Acting Tech Lead**  
+Июль 2023 — настоящее время | Ташкент, Узбекистан  
+
+Разработка ключевых модулей приложения **Uzum Business** — одного из ведущих финтех-приложений для бизнеса в Узбекистане.
+
+- Участвовал в архитектурной миграции приложения **с UIKit на SwiftUI**, внедрив модульную архитектуру на базе VIPER.
+- Отвечаю за **домен обработки транзакций и торговых операций** в системе с **15K+ ежедневных пользователей**.
+- Спроектировал и реализовал модуль **Digital Onboarding**, позволяющий открывать бизнес-счета удалённо.
+- Разработал модуль **SWIFT-переводов** и участвовал в переходе системы на новый стандарт **SWIFT MX**.
+- Поддерживаю **99.8% crash-free rate** благодаря мониторингу через Firebase Crashlytics.
+- Провожу **code review и архитектурный контроль** качества кода в команде.
+- Разрабатываю **переиспользуемые SwiftUI-компоненты** для внутренних библиотек UI.
+- Оптимизировал сетевой слой приложения, сократив время загрузки данных на **30%**.
+- Участвую в публикации релизов и управлении **App Store production-релизами**.
+
+Приложение:  
+https://apps.apple.com/ru/app/uzum-business-kapitalbank/id1672721973
+
+Стек:  
+Swift, SwiftUI, SnapKit, VIPER, Alamofire, Firebase, Kingfisher, Clean Architecture
 
 ---
 
-### Xalq Bank
-**iOS Developer | Май 2019 – Август 2021 | Ташкент, Узбекистан**  
-- Разработал внутренние и клиентские приложения банка.  
-- Оптимизировал API-запросы, снизив сетевую нагрузку на **25%**.  
-- [Xalq Banki](https://apps.apple.com/uz/developer/аt-xalq-bank/id1255778154)  
-**Стек:** Swift, UIKit, Moya, Firebase, MVC, MVVM, RxSwift  
+## ITQ Group — Московский Кредитный Банк
+**iOS Developer**  
+Сентябрь 2021 — Октябрь 2022 | Москва, Россия  
+
+Разработка мобильных сервисов для одного из крупнейших частных банков России.
+
+- Разработал ипотечный сервис в мобильном приложении банка, увеличив конверсию заявок на **15%**.
+- Реализовал новый onboarding и страницу регистрации клиентов.
+- Разработал модуль **Service Desk** для корпоративного приложения MKB Business.
+- Провёл рефакторинг ключевых модулей, повысив стабильность и поддерживаемость системы.
+- Участвовал в разработке production-функций банковского приложения совместно с backend-командой.
+
+Приложение:  
+https://mkb.ru/mobile
+
+Стек:  
+Swift, UIKit, VIPER, Firebase, Kingfisher, Clean Architecture
 
 ---
 
-### Фриланс
-**Mobile Developer | 2020 – 2023**  
-Разработал ряд приложений для международных клиентов (Upwork, Habr).  
-**Ключевые проекты:**  
-- [InvestAll](https://apps.apple.com/us/app/forescite-pro/id1567589436) — инвестиционный трекер  
-- [Клиника «Энергетик»](https://apps.apple.com/us/app/клиника-энергетик/id1568266071) — медицинское приложение  
-- [Crypto Portfolio: NOW Tracker](https://apps.apple.com/ru/app/now-tracker-сrypto-portfolio/id1536924823) — криптопортфель  
-- [myipnosi](https://apps.apple.com/ru/app/myipnosi/id1496931849) — приложение для гипноза и медитаций  
-- [Tanaffas](https://apps.apple.com/ru/app/tanaffas-تنف-س/id1509077753) | [Android](https://play.google.com/store/apps/details?id=uz.mit.tanaffas) — медитации на арабском  
-- [mKassa](https://www.mkassa.uz) — POS-терминалы  
+## Xalq Bank
+**iOS Developer**  
+Май 2019 — Август 2021 | Ташкент, Узбекистан  
+
+Разработка мобильных банковских приложений для клиентов и сотрудников банка.
+
+- Разрабатывал внутренние и клиентские банковские приложения.
+- Оптимизировал API-запросы, снизив сетевую нагрузку на **25%**.
+- Улучшил стабильность и производительность мобильных модулей.
+
+Приложение:  
+https://apps.apple.com/uz/developer/аt-xalq-bank/id1255778154
+
+Стек:  
+Swift, UIKit, Moya, Firebase, MVC, MVVM, RxSwift
 
 ---
 
-### iHoops
-**Android Developer | Апрель 2018 – Октябрь 2018 | Ташкент, Узбекистан**  
-- Разработал мобильное приложение для редактирования фотографий.  
-**Стек:** Kotlin, Java, MVP, Retrofit 2, FCM, In-App Purchases  
+## Фриланс
+**Mobile Developer**  
+2020 — 2023  
+
+Разрабатывал мобильные приложения для международных клиентов (Upwork, Habr Freelance).
+
+Ключевые проекты:
+
+InvestAll  
+Инвестиционный трекер с аналитикой  
+https://apps.apple.com/us/app/forescite-pro/id1567589436
+
+Energetic42  
+Медицинское приложение для записи на приём  
+https://apps.apple.com/us/app/клиника-энергетик/id1568266071
+
+Crypto Portfolio: NOW Tracker  
+Управление криптовалютным портфелем  
+https://apps.apple.com/ru/app/now-tracker-сrypto-portfolio/id1536924823
+
+Myipnosi  
+Приложение для гипноза и саморазвития  
+https://apps.apple.com/ru/app/myipnosi/id1496931849
+
+Tanaffas  
+Медитации для арабского рынка  
+https://apps.apple.com/ru/app/tanaffas-تنف-س/id1509077753  
+
+Android версия  
+https://play.google.com/store/apps/details?id=uz.mit.tanaffas
+
+mKassa  
+POS-терминальная система  
+https://www.mkassa.uz
+
+Стек:  
+Swift, SwiftUI, UIKit, RxSwift, Core Data, Firebase
 
 ---
 
-### Fido-Biznes
-**Oracle Developer | Ноябрь 2018 – Март 2019 | Ташкент, Узбекистан**  
-- Работа с базой данных Пенсионного фонда Республики Узбекистан.  
-**Стек:** PL/SQL  
+## iHoops
+**Android Developer**  
+Апрель 2018 — Октябрь 2018 | Ташкент, Узбекистан  
+
+Разработка мобильного приложения для редактирования фотографий.
+
+Стек:  
+Kotlin, Java, MVP, Retrofit2, Firebase Cloud Messaging
 
 ---
 
-## 🛠 Навыки
-**Языки:** Swift (iOS), Java, Kotlin (Android)  
-**Фреймворки:** SwiftUI, UIKit, SnapKit, PinLayout, Moya, Alamofire, Firebase, Kingfisher, Charts, Core Data, Realm, Combine, AVFoundation  
-**Архитектуры:** MVVM, MVVM-C, VIPER, MVC, Clean Architecture, SOLID  
-**Инструменты:** Git, GCD, XCTest, Xcode Instruments, Cocoapods, Carthage, SPM, REST, GraphQL, Push Notifications, Core Location, MapKit, ARKit, CI/CD (Jenkins, GitHub Actions)  
+## Fido-Biznes
+**Oracle Developer**  
+Ноябрь 2018 — Март 2019 | Ташкент, Узбекистан  
+
+Работа с базой данных Пенсионного фонда Республики Узбекистан.
+
+Стек:  
+PL/SQL
 
 ---
 
-## 🎓 Образование
-**INHA University in Tashkent** — бакалавр, Информационные и коммуникационные технологии (2014–2018)  
+# Навыки
 
-**HSE University, Москва** — магистр, Аналитика бизнеса и системы больших данных (2021–2023)  
-- Магистерская диссертация: *«Блокчейн в мобильной разработке»*  
+Языки  
+Swift (основной), Java, Kotlin
+
+Фреймворки и библиотеки  
+SwiftUI, UIKit, SnapKit, PinLayout, Alamofire, Moya, Firebase, Kingfisher, Charts, Combine, Core Data, Realm, AVFoundation
+
+Архитектуры  
+VIPER, MVVM, MVVM-C, MVC, Clean Architecture, SOLID
+
+Инструменты  
+Git, GCD, XCTest, Xcode Instruments, CocoaPods, Carthage, Swift Package Manager, REST API, GraphQL, Push Notifications, Core Location, MapKit, CI/CD (Jenkins, GitHub Actions)
 
 ---
 
-## 🌐 Владение языками
-- **Узбекский** — родной  
-- **Русский** — родной  
-- **Английский** — Upper-Intermediate (профессиональная коммуникация)  
+# Образование
+
+INHA University in Tashkent  
+Бакалавр, Information and Communication Engineering  
+2014 — 2018
+
+HSE University, Москва  
+Магистр, Business Analytics and Big Data Systems  
+2021 — 2023
+
+Магистерская диссертация  
+«Blockchain in Mobile Development»
 
 ---
 
-### 🌟 Контакты
-[LinkedIn](https://www.linkedin.com/in/islom-mamayunusov-a69870205/) | [Telegram](https://t.me/Takhirovich_I) | [Email](mailto:i.takhirovich@gmail.com) | [Телефон: +998(90)-972-00-61](tel:+998909720061)
+# Языки
+
+Узбекский — родной  
+Русский — родной  
+Английский — Upper-Intermediate
